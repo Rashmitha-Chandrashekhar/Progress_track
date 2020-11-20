@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "289502029987",
+    "firebase_url": "https://progress-track-6ceaf.firebaseio.com",
+    "project_id": "progress-track-6ceaf",
+    "storage_bucket": "progress-track-6ceaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289502029987:android:949f10f7e4abafc2f2b716",
+        "android_client_info": {
+          "package_name": "com.example.progresstrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289502029987-i0bpdptaa8gs2bjmbqdkpugqj5k1mhpa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.progresstrack",
+            "certificate_hash": "1e768ce790cb98092dd4db38f6e4920ecc6d7181"
+          }
+        },
+        {
+          "client_id": "289502029987-932kt0tfvbglb6b452jp9li7lcrq2o8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWxyCtityR2QX4jPmypl29Y2jxZgfswoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289502029987-932kt0tfvbglb6b452jp9li7lcrq2o8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
