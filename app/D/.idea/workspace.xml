@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c930292-909f-41ba-8232-8bd5c06b6e83" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/progresstrack/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/example/progresstrack/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/java/com/example/progresstrack/add.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/java/com/example/progresstrack/add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/main/res/layout/fragment_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../src/main/res/layout/fragment_home.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\DELL\AndroidStudioProjects\PROGRESSTRACK\app\D\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kd7IlTMxSVIfNqgMeWv5PEjeE3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../libs" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c930292-909f-41ba-8232-8bd5c06b6e83" name="Default Changelist" comment="" />
+      <created>1606018536611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606018536611</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1606018591738">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606018591738" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1606018574265">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1606018574265" />
+  </component>
+</project>
